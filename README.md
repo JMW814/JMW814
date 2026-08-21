@@ -6,7 +6,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/JMW814/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JMW814/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JMW814/configure-ad)
+  - [Configuring DNS A-Records](https://github.com/JMW814/dns-record-and-caching)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JMW814/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
