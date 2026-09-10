@@ -2,12 +2,16 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/JMW814/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/JMW814/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring DNS A-Records](https://github.com/JMW814/dns-record-and-caching)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JMW814/azure-network-protocols)
+  - [Creating Virtual Machines in Azure](https://github.com/JMW814/creating-azure-vms)
+  - [Configuring DNS A-Records](https://github.com/JMW814/dns-record-and-caching) 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  -   - [Setting Up/Practing With OSTicket](https://github.com/JMW814/osticket-setup-and-practice)
+- <b>Active Directory</b>
+  - [Configuring Active Directory](https://github.com/JMW814/configuring-active-directory)
+  - [Testing Group Policy](https://github.com/JMW814/group-policy-lockout)
+  - [Editing File Permissions](https://github.com/JMW814/editing-file-permissions)
+
 
 <h2>🤳Connect with me:</h2>
 
